@@ -6,14 +6,14 @@ public class LargestNumberChecker {
         // Create a scanner object to take input from the user
         Scanner s = new Scanner(System.in);
 
-        // Prompt the user to enter three numbers
-        System.out.println("Enter the first number: ");
+        // Ask the user to enter three numbers
+        System.out.print("Enter the first number : ");
         int num1 = s.nextInt();
 
-        System.out.println("Enter the second number: ");
+        System.out.print("Enter the second number : ");
         int num2 = s.nextInt();
 
-        System.out.println("Enter the third number: ");
+        System.out.print("Enter the third number : ");
         int num3 = s.nextInt();
 
         // Check if all numbers are equal
@@ -32,7 +32,7 @@ public class LargestNumberChecker {
             }
 
             // Output the largest number
-            System.out.println("The largest number is: " + largest);
+            System.out.println("The largest number is : " + largest);
         }
     }
 }
