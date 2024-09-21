@@ -1,4 +1,4 @@
-public class Task115 {
+public class tasksheet115 {
     public static void main(String[] args) {
         String a = "Wow";
         String b = a;
