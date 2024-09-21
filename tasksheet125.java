@@ -32,7 +32,7 @@ class Car extends Vehicle {
     }
 }
 
-public class Task125 {
+public class tasksheet125 {
     public static void main(String[] args) {
         // Create an instance of the Car class
         Car car = new Car("Toyota", "Camry", 2022, 4);
