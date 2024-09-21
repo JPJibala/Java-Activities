@@ -1,7 +1,7 @@
 import static java.lang.Math.*;
 import java.util.Scanner;
 
-public class Task121 {
+public class tasksheet121 {
 
     public static void main(String[] args) {
 
