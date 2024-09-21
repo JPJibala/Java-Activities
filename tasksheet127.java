@@ -19,7 +19,7 @@ class C extends abstractClass {
     }
 }
 
-public class Task127 {
+public class tasksheet127 {
     public static void main(String args[]) {
         // Instantiate class B
         B b = new B();
