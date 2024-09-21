@@ -1,4 +1,4 @@
-class ArithmeticTask {
+class tasksheet112 {
 
     public static void main (String[] args){
 
