@@ -13,7 +13,7 @@ class Student {
     }
 }
 
-public class Tasksheet122 {
+public class tasksheet122 {
     public static void main(String[] args) {
         Student[] students = new Student[] {
             new Student("Morgan", "Freeman"),
