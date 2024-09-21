@@ -1,4 +1,4 @@
-public class EvenNumbersPrinter {
+public class tasksheet118 {
 
     public static void main(String[] args) {
         int[] numbers = {
@@ -14,7 +14,7 @@ public class EvenNumbersPrinter {
         // Loop through the numbers array
         for (int number : numbers) {
             // Stop the loop if the number is 237
-            if (number == 237) {
+            if (number == 527) {
                 break;
             }
 
