@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LargestNumberChecker {
+public class tasksheet117 {
 
     public static void main(String[] args) {
         // Create a scanner object to take input from the user
