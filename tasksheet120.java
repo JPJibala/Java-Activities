@@ -1,4 +1,4 @@
-public class Task120 {
+public class tasksheet120 {
     public static void main(String[] args) {
         int totalSum = calculateSum(4, 5, 10);
         System.out.println("Total Sum: " + totalSum);
